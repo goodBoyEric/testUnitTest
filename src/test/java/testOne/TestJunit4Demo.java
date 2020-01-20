@@ -4,8 +4,7 @@ import interfacePackage.InterfaceA;
 import interfacePackage.InterfaceB;
 import org.junit.*;
 import org.junit.experimental.categories.Category;
-import org.junit.runner.RunWith;
-import testSuite.TestSuiteOne;
+
 
 public class TestJunit4Demo extends TestJunit4Father {
 
